@@ -4,7 +4,8 @@ body{
   
 h1 {
   font-family: 'Domine', serif;
-  font-size:26px;
+  font-size:32px;
+  text-align: center;
 }
 
 #links a{
